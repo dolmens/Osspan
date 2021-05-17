@@ -1,0 +1,456 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-05-15 13:51+0800\n"
+"PO-Revision-Date: 2021-05-15 13:51+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ../../src\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: _\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: file_list_ctrl.cc:92 schedule_list_ctrl.cc:20
+msgid "name"
+msgstr "名称"
+
+#: file_list_ctrl.cc:93
+msgid "size"
+msgstr "大小"
+
+#: file_list_ctrl.cc:94 schedule_list_ctrl.cc:22
+msgid "type"
+msgstr "类型"
+
+#: file_list_ctrl.cc:95
+msgid "time"
+msgstr "时间"
+
+#: file_list_ctrl.cc:470 mainfrm.cc:135 mainfrm.cc:139
+#: task_list_view_model.cc:36
+msgid "Copy"
+msgstr ""
+
+#: file_list_ctrl.cc:471 oss_list_ctrl.cc:198 schedule_list_ctrl.cc:88
+#: site_manager_dialog.cc:151 sync_task_dialog.cc:44 task_list_ctrl.cc:74
+msgid "Delete"
+msgstr ""
+
+#: file_list_ctrl.cc:473
+msgid "Create Directory"
+msgstr "创建目录"
+
+#: mainfrm.cc:70
+msgid "Site Manager"
+msgstr "站点管理"
+
+#: mainfrm.cc:71
+msgid "Task Manager"
+msgstr "任务管理"
+
+#: mainfrm.cc:73
+msgid "Close All"
+msgstr ""
+
+#: mainfrm.cc:75
+msgid "File"
+msgstr "文件"
+
+#: mainfrm.cc:79
+msgid "Local Remote Split"
+msgstr "本地远程分屏"
+
+#: mainfrm.cc:84
+msgid "Explorer Task Split"
+msgstr "浏览任务分屏"
+
+#: mainfrm.cc:88
+msgid "View"
+msgstr "查看"
+
+#: mainfrm.cc:107 mainfrm.cc:111
+msgid "Up"
+msgstr "向上"
+
+#: mainfrm.cc:113 mainfrm.cc:118
+msgid "Back"
+msgstr "后退"
+
+#: mainfrm.cc:121 mainfrm.cc:125
+msgid "Forward"
+msgstr "前进"
+
+#: mainfrm.cc:128 mainfrm.cc:132
+msgid "Refresh"
+msgstr "刷新"
+
+#: mainfrm.cc:142 mainfrm.cc:146
+msgid "Diff"
+msgstr "比较"
+
+#: mainfrm.cc:149 mainfrm.cc:153 task_list_view_model.cc:36
+msgid "Sync"
+msgstr "同步"
+
+#: mainfrm.cc:489
+#, c-format
+msgid "selected %d directory"
+msgstr "选中 %d个目录"
+
+#: mainfrm.cc:492
+#, c-format
+msgid "selected %d file total %s Bytes"
+msgstr "选中 %d个文件 总计%s字节"
+
+#: mainfrm.cc:498
+#, c-format
+msgid "selected %d directory %d file total %s bytes"
+msgstr "选中 %d个目录 %d个文件 总计%s字节"
+
+#: mainfrm.cc:507
+msgid "Empty Directory"
+msgstr "空目录"
+
+#: mainfrm.cc:510
+#, c-format
+msgid "%d directory"
+msgstr "%d个目录"
+
+#: mainfrm.cc:513
+#, c-format
+msgid "%d file total %s Bytes"
+msgstr "%d个文件 总计%s字节"
+
+#: mainfrm.cc:518
+#, c-format
+msgid "%d directory %d file total %s bytes"
+msgstr "%d个目录 %d个文件 总计%s字节"
+
+#: oss_browse_dialog.cc:13
+msgid "Choose OSS Directory"
+msgstr "选择OSS目录"
+
+#: oss_browse_dialog.cc:64
+msgid "Please select directory"
+msgstr "请选择路径"
+
+#: oss_browse_dialog.cc:64 site_manager_dialog.cc:187
+#: site_manager_dialog.cc:194 sync_task_dialog.cc:223 sync_task_dialog.cc:229
+#: traffic_setting_dialog.cc:87 traffic_setting_dialog.cc:96
+#: traffic_setting_dialog.cc:105 traffic_setting_dialog.cc:110
+#: traffic_setting_dialog.cc:121 traffic_setting_dialog.cc:125
+msgid "Error"
+msgstr ""
+
+#: oss_list_ctrl.cc:87
+msgid "Bucket"
+msgstr "Bucket"
+
+#: oss_list_ctrl.cc:88
+msgid "Location"
+msgstr "区域"
+
+#: oss_list_ctrl.cc:89
+msgid "Create Time"
+msgstr "创建时间"
+
+#: oss_list_ctrl.cc:199
+msgid "Create Bucket"
+msgstr "创建Bucket"
+
+#: remove_objects_dialog.cc:47 site_manager_dialog.cc:57
+msgid "Name"
+msgstr ""
+
+#: remove_objects_dialog.cc:79
+msgid "Delete Items"
+msgstr "删除项目"
+
+#: remove_objects_dialog.cc:92
+msgid "Do you want to delete these items?"
+msgstr "确认要删除如下项目吗？"
+
+#: schedule_list.cc:32 sync_task_dialog.cc:120
+msgid "Per Day"
+msgstr "每天"
+
+#: schedule_list.cc:34 sync_task_dialog.cc:121
+msgid "Per Hour"
+msgstr "每小时"
+
+#: schedule_list.cc:36 sync_task_dialog.cc:122
+msgid "Per Minute"
+msgstr "每分钟"
+
+#: schedule_list.cc:133
+msgid "task"
+msgstr "任务"
+
+#: schedule_list_ctrl.cc:21
+msgid "create time"
+msgstr "创建时间"
+
+#: schedule_list_ctrl.cc:23
+msgid "last start time"
+msgstr "上次启动时间"
+
+#: schedule_list_ctrl.cc:24
+msgid "srcPath"
+msgstr "源路径"
+
+#: schedule_list_ctrl.cc:25
+msgid "dstSite"
+msgstr "目的站点"
+
+#: schedule_list_ctrl.cc:26
+msgid "dstPath"
+msgstr "目的路径"
+
+#: schedule_list_ctrl.cc:87 site_manager_dialog.cc:150 sync_task_dialog.cc:42
+msgid "New"
+msgstr ""
+
+#: site_manager_dialog.cc:27
+msgid "OSS Site Manager"
+msgstr "OSS站点管理"
+
+#: site_manager_dialog.cc:36
+msgid "Select Entry:"
+msgstr "选择条目:"
+
+#: site_manager_dialog.cc:62
+msgid "Region"
+msgstr "区域"
+
+#: site_manager_dialog.cc:66
+msgid "Auto Select"
+msgstr "自动选择"
+
+#: site_manager_dialog.cc:102
+msgid "OSS Site List"
+msgstr "OSS站点列表"
+
+#: site_manager_dialog.cc:180
+msgid "Please input name"
+msgstr "请输入名字"
+
+#: site_manager_dialog.cc:182
+msgid "Please input key id"
+msgstr "请输入key id"
+
+#: site_manager_dialog.cc:184
+msgid "Please input key secret"
+msgstr "请输入key secret"
+
+#: site_manager_dialog.cc:194
+msgid "Name Exists!"
+msgstr "名称已存在！"
+
+#: string_format.cc:42
+msgid "Bytes"
+msgstr "字节"
+
+#: sync_task_dialog.cc:30
+msgid "sync task settings"
+msgstr "同步任务设置"
+
+#: sync_task_dialog.cc:40 sync_task_dialog.cc:342
+msgid "Expand Routine Tasks"
+msgstr "展开日常任务"
+
+#: sync_task_dialog.cc:57
+msgid "Local Path"
+msgstr "本地路径"
+
+#: sync_task_dialog.cc:82
+msgid "Path"
+msgstr "路径"
+
+#: sync_task_dialog.cc:89
+msgid "Browse"
+msgstr ""
+
+#: sync_task_dialog.cc:96
+msgid "Dual"
+msgstr "双向"
+
+#: sync_task_dialog.cc:101
+msgid "Upload Only"
+msgstr "仅上传"
+
+#: sync_task_dialog.cc:102
+msgid "Download only"
+msgstr "仅下载"
+
+#: sync_task_dialog.cc:107
+msgid "New files Only"
+msgstr "仅复制新建文件"
+
+#: sync_task_dialog.cc:115
+msgid "Once"
+msgstr "一次性任务"
+
+#: sync_task_dialog.cc:223
+msgid "Please select local directory"
+msgstr "请选择本地路径"
+
+#: sync_task_dialog.cc:229
+msgid "Please select OSS directory"
+msgstr "请选择OSS路径"
+
+#: sync_task_dialog.cc:299
+msgid "Schedule Changed, Want save?"
+msgstr "任务被修改，需要保存吗？"
+
+#: sync_task_dialog.cc:300
+msgid "Hint Save"
+msgstr "保存提示"
+
+#: sync_task_dialog.cc:337
+msgid "Collapse Routine Tasks"
+msgstr "折叠日常任务"
+
+#: task_list_ctrl.cc:29
+msgid "Source"
+msgstr "源"
+
+#: task_list_ctrl.cc:31
+msgid "Destination"
+msgstr "目的"
+
+#: task_list_ctrl.cc:32
+msgid "Type"
+msgstr "类型"
+
+#: task_list_ctrl.cc:33
+msgid "Status"
+msgstr "状态"
+
+#: task_list_ctrl.cc:34
+msgid "Progress"
+msgstr "进度"
+
+#: task_list_ctrl.cc:35
+msgid "Start"
+msgstr "开始"
+
+#: task_list_ctrl.cc:36 task_list_view_model.cc:10
+msgid "Finish"
+msgstr "完成"
+
+#: task_list_ctrl.cc:71 task_list_view_model.cc:11
+msgid "Stop"
+msgstr "停止"
+
+#: task_list_ctrl.cc:72
+msgid "Resume"
+msgstr "恢复"
+
+#: task_list_ctrl.cc:73
+msgid "Restart"
+msgstr "重新启动"
+
+#: task_list_ctrl.cc:77
+msgid "Auto Delete Finished Tasks"
+msgstr "自动删除已完成任务"
+
+#: task_list_view_model.cc:8
+msgid "Queueing"
+msgstr "排队"
+
+#: task_list_view_model.cc:9
+msgid "Running"
+msgstr "运行"
+
+#: task_list_view_model.cc:12
+msgid "Fail"
+msgstr "失败"
+
+#: traffic_setting_dialog.cc:13
+msgid "traffic settings"
+msgstr "传输设置"
+
+#: traffic_setting_dialog.cc:28
+msgid "Concurrent Download Count"
+msgstr "并发下载数"
+
+#: traffic_setting_dialog.cc:39
+msgid "Concurrent Upload Count"
+msgstr "并发上传数"
+
+#: traffic_setting_dialog.cc:50
+msgid "Download Speed Limit(KB)"
+msgstr "下载速度限制(KB)"
+
+#: traffic_setting_dialog.cc:64
+msgid "Upload Speed Limit(KB)"
+msgstr "上传速度限制(KB)"
+
+#: traffic_setting_dialog.cc:86
+msgid "Concurrent Download Count Input Error!"
+msgstr "并发下载数输入错误!"
+
+#: traffic_setting_dialog.cc:96
+msgid "Concurrent Upload Count Input Error!"
+msgstr "并发上传数输入错误!"
+
+#: traffic_setting_dialog.cc:105
+msgid "Download Speed Limit Input Error"
+msgstr "下载速度限制输入错误"
+
+#: traffic_setting_dialog.cc:109
+msgid "Download Speed Limit Min Value Is 100"
+msgstr "下载速度最低值是100(KB)"
+
+#: traffic_setting_dialog.cc:121
+msgid "Upload Speed Limit Input Error"
+msgstr "上传速度限制输入错误"
+
+#: traffic_setting_dialog.cc:125
+msgid "Upload Speed Limit Min Value Is 100"
+msgstr "上传速度最低值是100(KB)"
+
+#~ msgid "Download Threads Count"
+#~ msgstr "下载线程数"
+
+#~ msgid "Upload Threads Count"
+#~ msgstr "上传线程数"
+
+#, fuzzy
+#~| msgid "Bytes"
+#~ msgid " Bytes"
+#~ msgstr "字节"
+
+#, fuzzy
+#~| msgid "Bytes"
+#~ msgid " bytes"
+#~ msgstr "字节"
+
+#~ msgid "Please input endpoint"
+#~ msgstr "请输入endpoint"
+
+#~ msgid "Routine"
+#~ msgstr "日常任务"
+
+#~ msgid "New Task"
+#~ msgstr "新建任务"
+
+#~ msgid "Compare File's last modified time"
+#~ msgstr "同名文件检查时间戳"
+
+#~ msgid "OSS"
+#~ msgstr "OSS"
+
+#~ msgid "Retry"
+#~ msgstr "重试"
+
+#~ msgid "Twin Window"
+#~ msgstr "左右分屏"
+
+#~ msgid "Task List Window"
+#~ msgstr "任务视窗"

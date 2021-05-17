@@ -1,0 +1,6 @@
+[submodule "osssdk"]
+	path = osssdk
+	url = https://github.com/aliyun/aliyun-oss-cpp-sdk.git
+[submodule "yaml"]
+	path = yaml
+	url = https://github.com/jbeder/yaml-cpp.git
