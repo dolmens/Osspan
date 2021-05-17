@@ -1,7 +1,10 @@
 # Osspan
 用于同步本地文件夹和远程阿里云aliyun OSS目录之间文件的GUI工具。虽然一开始就设计为可以跨平台运行，但是目前只支持macOS。
 
-# build
+## Screeshot
+<img width="1200" alt="Osspan-screenshot" src="https://user-images.githubusercontent.com/1928025/118569960-aaefce80-b7ad-11eb-8042-a85830d6718b.png">
+
+## build
 
 1. `git clone --recursive https://github.com/dolmens/Osspan.git`
 2. `brew install openssl wxmac`
